@@ -128,7 +128,6 @@ p {
 .kontakt ion-icon:hover {
     color: var(--hover-color);
     border-color: var(--hover-color);
-    /* switch facebook icon colors */
 }
 
 .attribution {
@@ -137,7 +136,7 @@ p {
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: skyblue;
 }
 
 @media(min-width: 680px) {
