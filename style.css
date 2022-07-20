@@ -139,7 +139,7 @@ p {
     color: skyblue;
 }
 
-@media(min-width: 680px) {
+@media(min-width: 42.5em) {
     body {
         background: url(images/bg-desktop.svg) no-repeat;
         background-color: var(--bg-color);
@@ -167,6 +167,7 @@ p {
         width: 200px;
         height: 56px;
         border-radius: 2rem;
+        font-size: 1.125rem;
     }
 
     main > div {
