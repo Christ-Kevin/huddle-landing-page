@@ -167,6 +167,7 @@ p {
     .btn {
         width: 200px;
         height: 56px;
+        border-radius: 2rem;
     }
 
     main > div {
